@@ -180,3 +180,9 @@ streamlit run "app(1).py"
 - Include additional data visualizations and insights.
 - Deploy the Streamlit application online.
 - Implement feature importance analysis to understand spending behavior.
+
+##  Visualization Preview
+![Customer Spending Prediction]()
+![Customer Spending Prediction]()
+![Customer Spending Prediction]()
+
