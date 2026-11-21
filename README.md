@@ -182,7 +182,7 @@ streamlit run "app(1).py"
 - Implement feature importance analysis to understand spending behavior.
 
 ##  Visualization Preview
-![Customer Spending Prediction]()
-![Customer Spending Prediction]()
-![Customer Spending Prediction]()
+![Customer Spending Prediction](https://github.com/mugil26/Customer-Segmentation-Using-K-Means-Clustering/blob/main/Screenshot%202026-11-21%20103739.png)
+![Customer Spending Prediction](https://github.com/mugil26/Customer-Segmentation-Using-K-Means-Clustering/blob/main/Screenshot%202026-11-21%20103817.png)
+![Customer Spending Prediction](https://github.com/mugil26/Customer-Segmentation-Using-K-Means-Clustering/blob/main/Screenshot%202026-11-21%20103854.png)
 
